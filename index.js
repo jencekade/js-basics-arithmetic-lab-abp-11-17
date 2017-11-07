@@ -16,10 +16,10 @@ let randomNumber = Math.random()*20;
 
 let randomInteger = Math.floor(randomNumber);
 
-//<<<<<<< HEAD
-/*let randomUserID = randomInteger + 1000000001;
 
 let randomUserID = randomInteger + 1000000001;
+
+/*let randomUserID = randomInteger + 1000000001;
 //
-//>>>>>>> 145a852e17b367ae2a92f504e4bb646e8436f366
+
 */
